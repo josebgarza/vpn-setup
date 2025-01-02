@@ -2,32 +2,32 @@
 <img src="https://i.imgur.com/kAB3p31.png![image](https://github.com/user-attachments/assets/f2041d5d-0df1-4fdd-af4c-53b74d06289d)">
 </p>
 
-<h1>Active Directory Deployed in the Cloud (Azure)</h1>
-This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
+<h1>VPN - Prerequisites and Installation</h1>
+This tutorial outlines the prerequisites and installation ousing a VPN.<br />
 
 
 
 
 <h2>Environments and Technologies Used</h2>
 
+- A VPN (Proton VPN)
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
-- Active Directory Domain Services
-- PowerShell
+- Internet Information Services (IIS)
 
 <h2>Operating Systems Used </h2>
 
-- Windows Server 2022
 - Windows 10 (21H2)
 
-<h2>High-Level Deployment and Configuration Steps</h2>
+<h2>Steps Included</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Locate Local IP
+- Setting Up VM Using Azure
+- Locating IP Through VM (France)
+- Connecting to VPN Through VM
+- Locating IP Through VPN (Japan)
 
-<h2>Deployment and Configuration Steps</h2>
+<h2>Installation Steps</h2>
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
